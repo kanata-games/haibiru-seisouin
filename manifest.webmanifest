@@ -1,0 +1,25 @@
+{
+ "name": "廃ビルと清掃員",
+ "short_name": "廃ビルと清掃員",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "portrait",
+ "background_color": "#111111",
+ "theme_color": "#2a2a34",
+ "lang": "ja",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
